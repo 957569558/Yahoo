@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-score" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.tencent.warmli.gtest.main" target="1.8" />
+      <module name="com.tencent.warmli.gtest.test" target="1.8" />
+      <module name="com.tencent.warmli.service-commons.main" target="1.8" />
+      <module name="com.tencent.warmli.service-commons.test" target="1.8" />
+      <module name="com.tencent.warmli.service-process.main" target="1.8" />
+      <module name="com.tencent.warmli.service-process.test" target="1.8" />
+      <module name="gtest" target="1.8" />
+      <module name="service-score" target="1.8" />
+      <module name="test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gtest" options="-parameters" />
+      <module name="service-score" options="-parameters" />
+      <module name="test" options="-parameters" />
+    </option>
+  </component>
+</project>

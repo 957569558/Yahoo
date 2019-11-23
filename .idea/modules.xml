@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-commons.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-commons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-commons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-commons.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-commons.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-process.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-process.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-process.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-process.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tencent.warmli.service-process.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-consul-client/gtest.study-consul-client.iml" filepath="$PROJECT_DIR$/.idea/modules/study-consul-client/gtest.study-consul-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-registry-server/gtest.study-registry-server.iml" filepath="$PROJECT_DIR$/.idea/modules/study-registry-server/gtest.study-registry-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-score/service-score.iml" filepath="$PROJECT_DIR$/service-score/service-score.iml" />
+    </modules>
+  </component>
+</project>

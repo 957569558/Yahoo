@@ -1,0 +1,3 @@
+rootProject.name = 'gtest'
+include 'study-registry-server'
+include 'study-consul-client'
